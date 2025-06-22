@@ -1,4 +1,5 @@
 # AI Modding Workflow for Arma Reforger
+[COLAB_NOTBOOK](https://colab.research.google.com/gist/yaluft/5d67ed2bc109baeedb1b5e508403ea2d/pandas.ipynb)
 
 A comprehensive AI-powered toolkit for creating dynamic loot systems and advanced modding workflows in Arma Reforger using machine learning and automated prefab generation.
 
